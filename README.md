@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Programmer
 
-You can use the [editor on GitHub](https://github.com/shaheenhyderk/Programmer.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We make a programmer using milling machine. We can also get design from other sources
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### In fabmodules
 
-### Markdown
+<img src="https://shaheenhyderk.github.io/m.jpg" width="750" height="500">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="https://shaheenhyderk.github.io/mi.jpg" width="750" height="500">
 
-```markdown
-Syntax highlighted code block
+#### Milling
 
-# Header 1
-## Header 2
-### Header 3
+<img src="https://shaheenhyderk.github.io/IMG_20170808_193738[1].jpg" width="700" height="500">
 
-- Bulleted
-- List
+#### After milling & soldering
 
-1. Numbered
-2. List
+<img src="https://shaheenhyderk.github.io/IMG_20170816_170306[1].jpg" width="450" height="550">
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaheenhyderk/Programmer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Go To:
+ 
+ [<img src="http://shaheenhyderk.github.io/ho.png" width="75" height="75">](https://shaheenhyderk.github.io/)
+ [<img src="http://shaheenhyderk.github.io/go.jpg" width="175" height="75">](http://shaheenhyderk.github.io/final.github.io/)
